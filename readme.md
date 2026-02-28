@@ -193,13 +193,6 @@ We implemented a sophisticated **LangGraph-based negotiation engine**:
 
 ---
 
-## 🏗️ Architecture
-
-<!-- Add your architecture diagram here -->
-
-*Architecture diagram to be added*
-
----
 
 ## 🛠️ Tech Stack
 
