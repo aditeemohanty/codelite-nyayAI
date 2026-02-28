@@ -544,21 +544,6 @@ Real-time negotiation streaming with debate messages.
 **Live URL:** *[https://nyayai-tnn.vercel.app](https://nyayai-tnn.vercel.app)*
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **LangChain** and **LangGraph** teams for the excellent multi-agent framework
-- **Google** for Gemini API access
-- **LiveKit** for real-time voice infrastructure
-- **Indian Kanoon** and other legal databases for reference
-
----
-
 <div align="center">
 
 
